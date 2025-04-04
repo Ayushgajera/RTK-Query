@@ -90,7 +90,7 @@ export default function Home() {
           className="my-2 flex h-8 w-full items-center rounded border-2 border-solid border-gray-700 px-2 text-sm font-medium"
         >
           <svg
-            className="h-5 w-5 fill-current text-gray-400"
+            className="h-5 w-5 fill-current text-gray-500"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
